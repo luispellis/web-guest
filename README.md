@@ -25,7 +25,7 @@ Automatizar a avaliação de qualidade do Hotel, tornando-o de forma eficiente e
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" width="40" height="40"/>
 <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" width="60" height="40"/>
 
-# Pessoas Desenvolvedoras do Projeto
+# Pessoas desenvolvedoras do Projeto
 
 <div>
 <a href="https://github.com/luispellis">
